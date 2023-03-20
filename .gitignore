@@ -30,7 +30,7 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 /tests/tests/
 /tests/results/
 
-
+docker/db/data/
 
 front
 user_guide
