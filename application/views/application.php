@@ -6,6 +6,7 @@
         <title>ManySales</title>
             <!-- Required styles -->
             <?php  $this->load->view("partials/styles") ?>
+        <link rel="shortcut icon" type="image/png" href="<?= base_url() ?>assets/dist/img/favicon.png"/>
     </head>
     <!-- Required scripts -->
     <?php  $this->load->view("partials/scripts")?>

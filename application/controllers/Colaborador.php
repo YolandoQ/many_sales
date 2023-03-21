@@ -2,8 +2,14 @@
 
 class Colaborador extends CI_Controller {
     public function index() { 
-        // echo colaboradores();
-        $this->load->view("pages/unique/login");
+        // $this->load->view("pages/unique/login");
+
+        $data = [
+            "view" => "pages/home",
+            "data" => [],
+        ];
+
+        $this->load->view("application", $data);
     }
 }
 

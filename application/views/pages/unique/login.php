@@ -4,7 +4,7 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Many Sales | Login</title>
+  <title>ManySales | Login</title>
   <!-- Required styles -->
   <?php $this->load->view("partials/styles") ?>
 

@@ -1,8 +1,5 @@
 <!-- Main Footer -->
-<footer class="main-footer">
-   <strong>Copyright &copy; 2014-2021 <a href="https://adminlte.io">AdminLTE.io</a>.</strong> 
+<footer class="main-footer text-center">
+   <strong>Copyright &copy; <?=date("Y")?> <a href="https://github.com/YolandoQ" target="_blank">Yolando Queiroz</a>.</strong> 
    All rights reserved.
-   <div class="float-right d-none d-sm-inline-block">
-     <b>Version</b> 3.2.0
-   </div>
 </footer>
